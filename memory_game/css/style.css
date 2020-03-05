@@ -77,3 +77,10 @@ footer {
 a:hover {
 	border-color: white;
 }
+button {
+	margin: 10px;
+	border-color: blue;
+	font-size: 20px;
+	background-color: red;
+	color: white;
+}
